@@ -1,0 +1,26 @@
+{
+  "name": "cliqq",
+  "version": "0.0.1",
+  "description": "a chat tool based on command line",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yedeying999/cliqq.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "dependencies": {
+    "iconv-lite": "~0.4.5"
+  },
+  "author": "yedeying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yedeying999/cliqq/issues"
+  },
+  "homepage": "https://github.com/yedeying999/cliqq"
+}
